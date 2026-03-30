@@ -1,5 +1,5 @@
 {
-  "name": "sline-textmate",
+  "name": "@shoplineos/sline-textmate",
   "version": "1.0.0",
   "description": "Shopline Sline TextMate Grammar for Syntax Highlight",
   "main": "grammars/sline.tmLanguage.json",

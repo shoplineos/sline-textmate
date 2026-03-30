@@ -3,7 +3,7 @@
 A professional TextMate grammar definition for the [Sline template language](https://developer.shopline.com/docs/sline/sline-overview) with support for syntax highlighting across multiple platforms.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![npm version](https://img.shields.io/npm/v/sline-textmate)
+![npm version](https://img.shields.io/npm/v/@shoplineos/sline-textmate)
 
 ## Features
 
@@ -28,9 +28,9 @@ A professional TextMate grammar definition for the [Sline template language](htt
 ### Via npm
 
 ```bash
-npm install sline-textmate
+npm install @shoplineos/sline-textmate
 # or
-yarn add sline-textmate
+yarn add @shoplineos/sline-textmate
 ```
 
 ### Manual
@@ -41,9 +41,9 @@ Download the `sline.tmLanguage.json` file and place it in your TextMate/VSCode g
 
 ### In Visual Studio Code
 
-1. Install the `sline-textmate` package:
+1. Install the `@shoplineos/sline-textmate` package:
    ```bash
-   npm install --save-dev sline-textmate
+   npm install --save-dev @shoplineos/sline-textmate
    ```
 
 2. Reference in your VSCode extension or copy the grammar file to your extension's grammars directory.
@@ -59,7 +59,7 @@ In your VSCode extension's `package.json`:
       {
         "language": "sline",
         "scopeName": "text.html.sline",
-        "path": "./node_modules/sline-textmate/grammars/sline.tmLanguage.json"
+        "path": "./node_modules/@shoplineos/sline-textmate/grammars/sline.tmLanguage.json"
       }
     ]
   }
