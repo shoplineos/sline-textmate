@@ -1,0 +1,334 @@
+{
+  "fixture": "sline-filter.slt",
+  "lines": [
+    [
+      {
+        "position": "line: 1, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 2",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 9",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 10",
+        "text": "|",
+        "scopes": [
+          "keyword.separator.pipe.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 11",
+        "text": " ",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 12",
+        "text": "image_url",
+        "scopes": [
+          "support.function.filter.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 21",
+        "text": "(",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 22",
+        "text": "width",
+        "scopes": [
+          "variable.parameter.attribute-name.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 27",
+        "text": "=",
+        "scopes": [
+          "keyword.operator.assignment.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 28",
+        "text": "100",
+        "scopes": [
+          "constant.numeric.index.sline",
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 31",
+        "text": ",",
+        "scopes": [
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 32",
+        "text": " ",
+        "scopes": [
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 33",
+        "text": "height",
+        "scopes": [
+          "variable.parameter.attribute-name.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 39",
+        "text": "=",
+        "scopes": [
+          "keyword.operator.assignment.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 40",
+        "text": "200",
+        "scopes": [
+          "constant.numeric.index.sline",
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 43",
+        "text": ",",
+        "scopes": [
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 44",
+        "text": " ",
+        "scopes": [
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 45",
+        "text": "quality",
+        "scopes": [
+          "variable.parameter.attribute-name.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 52",
+        "text": "=",
+        "scopes": [
+          "keyword.operator.assignment.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 53",
+        "text": "100",
+        "scopes": [
+          "constant.numeric.index.sline",
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 56",
+        "text": ")",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 57",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 58",
+        "text": "|",
+        "scopes": [
+          "keyword.separator.pipe.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 59",
+        "text": " ",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 60",
+        "text": "append",
+        "scopes": [
+          "support.function.filter.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 66",
+        "text": "(",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 67",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 68",
+        "text": "?test=1",
+        "scopes": [
+          "string.quoted.double.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 75",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 76",
+        "text": ")",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 77",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ]
+  ]
+}

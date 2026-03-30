@@ -1,0 +1,14 @@
+<script {{settings.test}}>
+
+  let foo: string = {{settings.var}};
+
+  let foo: string = "{{settings.string}}";
+
+  function test() {
+
+    var arr = [0,1,2,3,4,5,{{settings.item | append("123")}}];
+
+    console.log(arr);
+
+  }
+</script>

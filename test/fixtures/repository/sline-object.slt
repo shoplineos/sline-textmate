@@ -1,0 +1,21 @@
+{{ aaa }}
+
+{{ page_title }}
+
+{{ product.featured_image }}
+
+{{ product.featured_image.id }}
+
+{{ product.tags[123] }}
+
+{{ product.tags["id"] }}
+
+{{ product.tags[id] }}
+
+{{#var tags = product.tags /}}
+
+{{ tags[123] }}
+
+{{ tags["id"] }}
+
+{{ tags[key] }}

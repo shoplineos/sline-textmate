@@ -1,0 +1,11 @@
+<style {{settings.test}}>
+  .foo {
+
+    width: "{{settings.width | append("123")}}px";
+
+    height: {{settings.height | append("456")}};
+
+    {{settings.display}}: block;
+
+  }
+</style>

@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDE files
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.local
+
+# Claude AI instructions
+.claude/
+CLAUDE.md

@@ -1,0 +1,1352 @@
+{
+  "fixture": "script-js.slt",
+  "lines": [
+    [
+      {
+        "position": "line: 1, column: 0",
+        "text": "<",
+        "scopes": [
+          "punctuation.definition.tag.begin.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 1",
+        "text": "script",
+        "scopes": [
+          "entity.name.tag.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 7",
+        "text": " ",
+        "scopes": [
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 8",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 10",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 18",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 19",
+        "text": "test",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 23",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 25",
+        "text": ">",
+        "scopes": [
+          "punctuation.definition.tag.end.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 2, column: 0",
+        "text": "",
+        "scopes": [
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 3, column: 0",
+        "text": "  ",
+        "scopes": [
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 2",
+        "text": "let",
+        "scopes": [
+          "storage.type.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 5",
+        "text": " ",
+        "scopes": [
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 6",
+        "text": "foo",
+        "scopes": [
+          "variable.other.readwrite.js",
+          "meta.definition.variable.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 9",
+        "text": ":",
+        "scopes": [
+          "keyword.operator.type.annotation.js",
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 10",
+        "text": " ",
+        "scopes": [
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 11",
+        "text": "string",
+        "scopes": [
+          "support.type.primitive.js",
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 17",
+        "text": " ",
+        "scopes": [
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 18",
+        "text": "=",
+        "scopes": [
+          "keyword.operator.assignment.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 19",
+        "text": " ",
+        "scopes": [
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 20",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 22",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 30",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 31",
+        "text": "var",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 34",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 36",
+        "text": ";",
+        "scopes": [
+          "punctuation.terminator.statement.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 4, column: 0",
+        "text": "",
+        "scopes": [
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 5, column: 0",
+        "text": "  ",
+        "scopes": [
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 2",
+        "text": "let",
+        "scopes": [
+          "storage.type.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 5",
+        "text": " ",
+        "scopes": [
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 6",
+        "text": "foo",
+        "scopes": [
+          "variable.other.readwrite.js",
+          "meta.definition.variable.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 9",
+        "text": ":",
+        "scopes": [
+          "keyword.operator.type.annotation.js",
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 10",
+        "text": " ",
+        "scopes": [
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 11",
+        "text": "string",
+        "scopes": [
+          "support.type.primitive.js",
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 17",
+        "text": " ",
+        "scopes": [
+          "meta.type.annotation.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 18",
+        "text": "=",
+        "scopes": [
+          "keyword.operator.assignment.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 19",
+        "text": " ",
+        "scopes": [
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 20",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.js",
+          "string.quoted.double.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 21",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 23",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 31",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 32",
+        "text": "string",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 38",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 40",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.js",
+          "string.quoted.double.js",
+          "meta.var.expr.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 41",
+        "text": ";",
+        "scopes": [
+          "punctuation.terminator.statement.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 6, column: 0",
+        "text": "",
+        "scopes": [
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 7, column: 0",
+        "text": "  ",
+        "scopes": [
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 2",
+        "text": "function",
+        "scopes": [
+          "storage.type.function.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 10",
+        "text": " ",
+        "scopes": [
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 11",
+        "text": "test",
+        "scopes": [
+          "entity.name.function.js",
+          "meta.definition.function.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 15",
+        "text": "(",
+        "scopes": [
+          "punctuation.definition.parameters.begin.js",
+          "meta.parameters.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 16",
+        "text": ")",
+        "scopes": [
+          "punctuation.definition.parameters.end.js",
+          "meta.parameters.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 17",
+        "text": " ",
+        "scopes": [
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 18",
+        "text": "{",
+        "scopes": [
+          "punctuation.definition.block.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 8, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 9, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 4",
+        "text": "var",
+        "scopes": [
+          "storage.type.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 7",
+        "text": " ",
+        "scopes": [
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 8",
+        "text": "arr",
+        "scopes": [
+          "variable.other.readwrite.js",
+          "meta.definition.variable.js",
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 11",
+        "text": " ",
+        "scopes": [
+          "meta.var-single-variable.expr.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 12",
+        "text": "=",
+        "scopes": [
+          "keyword.operator.assignment.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 13",
+        "text": " ",
+        "scopes": [
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 14",
+        "text": "[",
+        "scopes": [
+          "meta.brace.square.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 15",
+        "text": "0",
+        "scopes": [
+          "constant.numeric.decimal.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 16",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.comma.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 17",
+        "text": "1",
+        "scopes": [
+          "constant.numeric.decimal.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 18",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.comma.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 19",
+        "text": "2",
+        "scopes": [
+          "constant.numeric.decimal.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 20",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.comma.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 21",
+        "text": "3",
+        "scopes": [
+          "constant.numeric.decimal.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 22",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.comma.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 23",
+        "text": "4",
+        "scopes": [
+          "constant.numeric.decimal.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 24",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.comma.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 25",
+        "text": "5",
+        "scopes": [
+          "constant.numeric.decimal.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 26",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.comma.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 27",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 29",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 37",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 38",
+        "text": "item",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 42",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 43",
+        "text": "|",
+        "scopes": [
+          "keyword.separator.pipe.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 44",
+        "text": " ",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 45",
+        "text": "append",
+        "scopes": [
+          "support.function.filter.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 51",
+        "text": "(",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 52",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 53",
+        "text": "123",
+        "scopes": [
+          "string.quoted.double.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 56",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 57",
+        "text": ")",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 58",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 60",
+        "text": "]",
+        "scopes": [
+          "meta.brace.square.js",
+          "meta.array.literal.js",
+          "meta.var.expr.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 61",
+        "text": ";",
+        "scopes": [
+          "punctuation.terminator.statement.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 10, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 11, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 4",
+        "text": "console",
+        "scopes": [
+          "variable.other.object.js",
+          "meta.function-call.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 11",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.js",
+          "meta.function-call.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 12",
+        "text": "log",
+        "scopes": [
+          "entity.name.function.js",
+          "meta.function-call.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 15",
+        "text": "(",
+        "scopes": [
+          "meta.brace.round.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 16",
+        "text": "arr",
+        "scopes": [
+          "variable.other.readwrite.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 19",
+        "text": ")",
+        "scopes": [
+          "meta.brace.round.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 20",
+        "text": ";",
+        "scopes": [
+          "punctuation.terminator.statement.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 12, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 13, column: 0",
+        "text": "  ",
+        "scopes": [
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 2",
+        "text": "}",
+        "scopes": [
+          "punctuation.definition.block.js",
+          "meta.block.js",
+          "meta.function.js",
+          "source.js",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 14, column: 0",
+        "text": "<",
+        "scopes": [
+          "source.js-ignored-vscode",
+          "punctuation.definition.tag.begin.html",
+          "meta.tag.metadata.script.end.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 14, column: 1",
+        "text": "/",
+        "scopes": [
+          "punctuation.definition.tag.begin.html",
+          "meta.tag.metadata.script.end.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 14, column: 2",
+        "text": "script",
+        "scopes": [
+          "entity.name.tag.html",
+          "meta.tag.metadata.script.end.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 14, column: 8",
+        "text": ">",
+        "scopes": [
+          "punctuation.definition.tag.end.html",
+          "meta.tag.metadata.script.end.html",
+          "meta.embedded.block.html",
+          "text.html.sline"
+        ]
+      }
+    ]
+  ]
+}

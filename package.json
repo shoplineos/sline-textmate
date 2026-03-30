@@ -1,0 +1,54 @@
+{
+  "name": "sline-textmate",
+  "version": "1.0.0",
+  "description": "Shopline Sline TextMate Grammar for Syntax Highlight",
+  "main": "grammars/sline.tmLanguage.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoplineos/sline-textmate.git"
+  },
+  "author": "Shopline",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "sline",
+    "textmate",
+    "grammar",
+    "syntax-highlight",
+    "vscode",
+    "shopline"
+  ],
+  "files": [
+    "grammars/sline.tmLanguage.json",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "exports": {
+    ".": {
+      "import": "./grammars/sline.tmLanguage.json"
+    }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "yamlToJson": "node scripts/yamlToJson.mjs",
+    "test": "npx mocha",
+    "test:updateSnapshots": "cross-env UPDATE_SNAPSHOTS=1 npm test"
+  },
+  "devDependencies": {
+    "@types/chai": "^5.2.3",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^25.0.3",
+    "chai": "^6.2.2",
+    "cross-env": "^10.1.0",
+    "js-yaml": "^4.1.1",
+    "mocha": "^11.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "vscode-oniguruma": "^2.0.1",
+    "vscode-textmate": "^9.3.0",
+    "yaml": "^2.8.2"
+  }
+}

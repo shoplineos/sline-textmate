@@ -1,0 +1,1784 @@
+{
+  "fixture": "ld-json.slt",
+  "lines": [
+    [
+      {
+        "position": "line: 1, column: 0",
+        "text": "<",
+        "scopes": [
+          "punctuation.definition.tag.begin.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 1",
+        "text": "script",
+        "scopes": [
+          "entity.name.tag.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 7",
+        "text": " ",
+        "scopes": [
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 8",
+        "text": "type",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.attribute.type.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 12",
+        "text": "=",
+        "scopes": [
+          "punctuation.separator.key-value.html",
+          "meta.attribute.type.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 13",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.html",
+          "string.quoted.double.html",
+          "meta.attribute.type.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 14",
+        "text": "application/ld+json",
+        "scopes": [
+          "string.quoted.double.html",
+          "meta.attribute.type.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 33",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.html",
+          "string.quoted.double.html",
+          "meta.attribute.type.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 34",
+        "text": " ",
+        "scopes": [
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 35",
+        "text": "{{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 38",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 46",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 47",
+        "text": "test",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 51",
+        "text": "}}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 54",
+        "text": " ",
+        "scopes": [
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 55",
+        "text": "{{#",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 58",
+        "text": "if",
+        "scopes": [
+          "keyword.control.if.tag.name.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 60",
+        "text": " ",
+        "scopes": [
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 61",
+        "text": "true",
+        "scopes": [
+          "constant.language.word.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 65",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 67",
+        "text": "data",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 71",
+        "text": "-",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 72",
+        "text": "test",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 76",
+        "text": "=",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 77",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 78",
+        "text": "123",
+        "scopes": [
+          "string.quoted.double.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 81",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 82",
+        "text": "{{/",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 85",
+        "text": "if",
+        "scopes": [
+          "keyword.control.if.tag.name.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 87",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 89",
+        "text": ">",
+        "scopes": [
+          "punctuation.definition.tag.end.html",
+          "meta.tag.metadata.script.start.html",
+          "meta.embedded.block.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 2, column: 0",
+        "text": "  ",
+        "scopes": [
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 2",
+        "text": "{",
+        "scopes": [
+          "punctuation.definition.dictionary.begin.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 3, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 4",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.begin.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 5",
+        "text": "@type",
+        "scopes": [
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 10",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.end.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 11",
+        "text": ":",
+        "scopes": [
+          "punctuation.separator.dictionary.key-value.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 12",
+        "text": " ",
+        "scopes": [
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 13",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.json",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 14",
+        "text": "Product",
+        "scopes": [
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 21",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.json",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 22",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.dictionary.pair.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 4, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 5, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 4",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.begin.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 5",
+        "text": "name",
+        "scopes": [
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 9",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.end.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 10",
+        "text": ":",
+        "scopes": [
+          "punctuation.separator.dictionary.key-value.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 11",
+        "text": " ",
+        "scopes": [
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 12",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.json",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 13",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 15",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 22",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 23",
+        "text": "title",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 28",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 30",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.json",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 31",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.dictionary.pair.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 6, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 7, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 4",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.begin.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 5",
+        "text": "url",
+        "scopes": [
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 8",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.end.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 9",
+        "text": ":",
+        "scopes": [
+          "punctuation.separator.dictionary.key-value.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 10",
+        "text": " ",
+        "scopes": [
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 11",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.json",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 12",
+        "text": "{{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 15",
+        "text": "request",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 22",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 23",
+        "text": "origin",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 29",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 30",
+        "text": "|",
+        "scopes": [
+          "keyword.separator.pipe.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 31",
+        "text": " ",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 32",
+        "text": "append",
+        "scopes": [
+          "support.function.filter.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 38",
+        "text": "(",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 39",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 46",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 47",
+        "text": "url",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.filter.argument.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 50",
+        "text": ")",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 51",
+        "text": "}}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 54",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.json",
+          "string.quoted.double.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 55",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.dictionary.pair.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 8, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 9, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 4",
+        "text": "{{#",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 7",
+        "text": "if",
+        "scopes": [
+          "keyword.control.if.tag.name.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 9",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.tag.singleline.start.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 10",
+        "text": "seo_media",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 19",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 10, column: 0",
+        "text": "      ",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 10, column: 6",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.begin.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 10, column: 7",
+        "text": "image",
+        "scopes": [
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 10, column: 12",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.end.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 10, column: 13",
+        "text": ":",
+        "scopes": [
+          "punctuation.separator.dictionary.key-value.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 10, column: 14",
+        "text": " ",
+        "scopes": [
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 10, column: 15",
+        "text": "[",
+        "scopes": [
+          "punctuation.definition.array.begin.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 11, column: 0",
+        "text": "        ",
+        "scopes": [
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 8",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.json",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 9",
+        "text": "{{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 12",
+        "text": "seo_media",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 21",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 22",
+        "text": "preview_image",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 35",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 36",
+        "text": "src",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 39",
+        "text": "}}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 42",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.json",
+          "string.quoted.double.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 12, column: 0",
+        "text": "      ",
+        "scopes": [
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 12, column: 6",
+        "text": "]",
+        "scopes": [
+          "punctuation.definition.array.end.json",
+          "meta.structure.array.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 12, column: 7",
+        "text": ",",
+        "scopes": [
+          "punctuation.separator.dictionary.pair.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 13, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 4",
+        "text": "{{/",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.tag.singleline.end.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 7",
+        "text": "if",
+        "scopes": [
+          "keyword.control.if.tag.name.sline",
+          "meta.embedded.tag.singleline.end.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 9",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.end.sline",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 14, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 15, column: 0",
+        "text": "    ",
+        "scopes": [
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 4",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.begin.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 5",
+        "text": "description",
+        "scopes": [
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 16",
+        "text": "\"",
+        "scopes": [
+          "punctuation.support.type.property-name.end.json",
+          "support.type.property-name.json",
+          "string.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 17",
+        "text": ":",
+        "scopes": [
+          "punctuation.separator.dictionary.key-value.json",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 18",
+        "text": " ",
+        "scopes": [
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 19",
+        "text": "{{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 22",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 29",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 30",
+        "text": "description",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 41",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 42",
+        "text": "|",
+        "scopes": [
+          "keyword.separator.pipe.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 43",
+        "text": " ",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 44",
+        "text": "strip_html",
+        "scopes": [
+          "support.function.filter.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 54",
+        "text": "()",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 56",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 57",
+        "text": "|",
+        "scopes": [
+          "keyword.separator.pipe.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 58",
+        "text": " ",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 59",
+        "text": "json",
+        "scopes": [
+          "support.function.filter.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 63",
+        "text": "()",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 65",
+        "text": "}}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 16, column: 0",
+        "text": "  ",
+        "scopes": [
+          "meta.structure.dictionary.value.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 16, column: 2",
+        "text": "}",
+        "scopes": [
+          "punctuation.definition.dictionary.end.json",
+          "meta.structure.dictionary.json",
+          "source.json",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 17, column: 0",
+        "text": "</",
+        "scopes": [
+          "punctuation.definition.tag.begin.html",
+          "meta.tag.metadata.script.end.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 2",
+        "text": "script",
+        "scopes": [
+          "entity.name.tag.html",
+          "meta.tag.metadata.script.end.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 8",
+        "text": ">",
+        "scopes": [
+          "punctuation.definition.tag.end.html",
+          "meta.tag.metadata.script.end.html",
+          "meta.embedded.json.ld.sline",
+          "text.html.sline"
+        ]
+      }
+    ]
+  ]
+}

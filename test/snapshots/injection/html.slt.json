@@ -1,0 +1,868 @@
+{
+  "fixture": "html.slt",
+  "lines": [
+    [
+      {
+        "position": "line: 1, column: 0",
+        "text": "<",
+        "scopes": [
+          "punctuation.definition.tag.begin.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 1",
+        "text": "div",
+        "scopes": [
+          "entity.name.tag.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 2, column: 0",
+        "text": "  ",
+        "scopes": [
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 2",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 4",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 5",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 13",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 14",
+        "text": "color_scheme",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 26",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 27",
+        "text": "id",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 29",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 2, column: 30",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 3, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 4, column: 0",
+        "text": "  ",
+        "scopes": [
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 2",
+        "text": "class",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 7",
+        "text": "=",
+        "scopes": [
+          "punctuation.separator.key-value.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 8",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.html",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 9",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 11",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 12",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 20",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 21",
+        "text": "color_scheme",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 33",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 34",
+        "text": "id",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 36",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 37",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 4, column: 39",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.html",
+          "string.quoted.double.html",
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 5, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.attribute.class.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 6, column: 0",
+        "text": "  ",
+        "scopes": [
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 2",
+        "text": "data-options",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 14",
+        "text": "=",
+        "scopes": [
+          "punctuation.separator.key-value.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 15",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.html",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 16",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 18",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 26",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 27",
+        "text": "spacing",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 34",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 35",
+        "text": "|",
+        "scopes": [
+          "keyword.separator.pipe.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 36",
+        "text": " ",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 37",
+        "text": "class_list",
+        "scopes": [
+          "support.function.filter.sline",
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 47",
+        "text": "()",
+        "scopes": [
+          "meta.filter.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 49",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 6, column: 51",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.html",
+          "string.quoted.double.html",
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 7, column: 0",
+        "text": "",
+        "scopes": [
+          "meta.attribute.data-x.data-options.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 8, column: 0",
+        "text": "  ",
+        "scopes": [
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 2",
+        "text": "{{#",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 5",
+        "text": "if",
+        "scopes": [
+          "keyword.control.if.tag.name.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 7",
+        "text": " ",
+        "scopes": [
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 8",
+        "text": "settings",
+        "scopes": [
+          "support.class.object.name.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 16",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 17",
+        "text": "article_card_style",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 35",
+        "text": " ",
+        "scopes": [
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 36",
+        "text": "==",
+        "scopes": [
+          "keyword.operator.comparison.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 38",
+        "text": " ",
+        "scopes": [
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 39",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 40",
+        "text": "card",
+        "scopes": [
+          "string.quoted.double.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 44",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "support.function.tag.content.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 45",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 47",
+        "text": "article",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 54",
+        "text": "-",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 55",
+        "text": "card",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 59",
+        "text": "-",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 60",
+        "text": "border",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 66",
+        "text": "-",
+        "scopes": [
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 67",
+        "text": "shadow",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "entity.other.attribute-name.html",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 73",
+        "text": "{{/",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 76",
+        "text": "if",
+        "scopes": [
+          "keyword.control.if.tag.name.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 8, column: 78",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.complete.sline",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 9, column: 0",
+        "text": ">",
+        "scopes": [
+          "punctuation.definition.tag.end.html",
+          "meta.tag.structure.div.start.html",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 10, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 11, column: 0",
+        "text": "  ",
+        "scopes": [
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 2",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 4",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 5",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 12",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 13",
+        "text": "title",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 18",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 19",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 12, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 13, column: 0",
+        "text": "</",
+        "scopes": [
+          "punctuation.definition.tag.begin.html",
+          "meta.tag.structure.div.end.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 2",
+        "text": "div",
+        "scopes": [
+          "entity.name.tag.html",
+          "meta.tag.structure.div.end.html",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 5",
+        "text": ">",
+        "scopes": [
+          "punctuation.definition.tag.end.html",
+          "meta.tag.structure.div.end.html",
+          "text.html.sline"
+        ]
+      }
+    ]
+  ]
+}

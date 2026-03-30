@@ -1,0 +1,975 @@
+{
+  "fixture": "sline-object.slt",
+  "lines": [
+    [
+      {
+        "position": "line: 1, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 3",
+        "text": "aaa",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 6",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 7",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 2, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 3, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 3",
+        "text": "page_title",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 13",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 14",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 4, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 5, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 3",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 10",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 11",
+        "text": "featured_image",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 25",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 5, column: 26",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 6, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 7, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 3",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 10",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 11",
+        "text": "featured_image",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 25",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 26",
+        "text": "id",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 28",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 7, column: 29",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 8, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 9, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 3",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 10",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 11",
+        "text": "tags",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 15",
+        "text": "[",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 16",
+        "text": "123",
+        "scopes": [
+          "constant.numeric.index.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 19",
+        "text": "]",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 20",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 9, column: 21",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 10, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 11, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 3",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 10",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 11",
+        "text": "tags",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 15",
+        "text": "[",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 16",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 17",
+        "text": "id",
+        "scopes": [
+          "string.quoted.double.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 19",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 20",
+        "text": "]",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 21",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 11, column: 22",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 12, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 13, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 3",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 10",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 11",
+        "text": "tags",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 15",
+        "text": "[",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 16",
+        "text": "id",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 18",
+        "text": "]",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 19",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 13, column: 20",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 14, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 15, column: 0",
+        "text": "{{#",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 3",
+        "text": "var",
+        "scopes": [
+          "keyword.control.var.tag.name.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 6",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 7",
+        "text": "tags",
+        "scopes": [
+          "variable.parameter.attribute-name.sline",
+          "meta.key.value.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 11",
+        "text": " ",
+        "scopes": [
+          "meta.key.value.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 12",
+        "text": "=",
+        "scopes": [
+          "keyword.operator.assignment.sline",
+          "meta.key.value.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 13",
+        "text": " ",
+        "scopes": [
+          "meta.key.value.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 14",
+        "text": "product",
+        "scopes": [
+          "support.class.object.name.sline",
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 21",
+        "text": ".",
+        "scopes": [
+          "punctuation.accessor.sline",
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 22",
+        "text": "tags",
+        "scopes": [
+          "variable.other.object.property.sline",
+          "variable.other.attribute-value.sline",
+          "meta.key.value.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 26",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 15, column: 27",
+        "text": "/}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.tag.singleline.start.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 16, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 17, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 3",
+        "text": "tags",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 7",
+        "text": "[",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 8",
+        "text": "123",
+        "scopes": [
+          "constant.numeric.index.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 11",
+        "text": "]",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 12",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 17, column: 13",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 18, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 19, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 3",
+        "text": "tags",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 7",
+        "text": "[",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 8",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.begin.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 9",
+        "text": "id",
+        "scopes": [
+          "string.quoted.double.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 11",
+        "text": "\"",
+        "scopes": [
+          "punctuation.definition.string.end.sline",
+          "string.quoted.double.sline",
+          "string.quoted.double.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 12",
+        "text": "]",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 13",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 19, column: 14",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 20, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 21, column: 0",
+        "text": "{{",
+        "scopes": [
+          "support.function.begin.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 21, column: 2",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 21, column: 3",
+        "text": "tags",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 21, column: 7",
+        "text": "[",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 21, column: 8",
+        "text": "key",
+        "scopes": [
+          "entity.other.attribute-name.word.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 21, column: 11",
+        "text": "]",
+        "scopes": [
+          "keyword.other.square-bracket.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 21, column: 12",
+        "text": " ",
+        "scopes": [
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 21, column: 13",
+        "text": "}}",
+        "scopes": [
+          "support.function.end.sline",
+          "meta.embedded.object.singleline.sline",
+          "text.html.sline"
+        ]
+      }
+    ]
+  ]
+}

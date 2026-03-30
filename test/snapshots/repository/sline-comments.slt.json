@@ -1,0 +1,98 @@
+{
+  "fixture": "sline-comments.slt",
+  "lines": [
+    [
+      {
+        "position": "line: 1, column: 0",
+        "text": "{{!--",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 5",
+        "text": " sline ",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 1, column: 12",
+        "text": "--}}",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 2, column: 0",
+        "text": "",
+        "scopes": [
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 3, column: 0",
+        "text": "{{!--",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      },
+      {
+        "position": "line: 3, column: 5",
+        "text": " ",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 4, column: 0",
+        "text": "",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 5, column: 0",
+        "text": "  Example: {{product.title}}",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 6, column: 0",
+        "text": "",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      }
+    ],
+    [
+      {
+        "position": "line: 7, column: 0",
+        "text": "--}}",
+        "scopes": [
+          "comment.block.sline",
+          "text.html.sline"
+        ]
+      }
+    ]
+  ]
+}

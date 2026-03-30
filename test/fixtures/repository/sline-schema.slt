@@ -1,0 +1,21 @@
+{{#schema}}
+{
+  "name": "account",
+  "settings": [
+    {
+      "id": "color_scheme",
+      "type": "color_scheme",
+      "label": 123,
+      "default": true
+    },
+    {
+      {{#if settings.test}}
+        "type": "style.spacing",
+      {{/if}}
+      "id": "{{settings.id}}",
+      "label": {{settings.label}},
+      "default": ""
+    }
+  ]
+}
+{{/schema}}
