@@ -32,35 +32,44 @@ export async function loadHtmlWithSlineGrammar() {
         case "text.html.sline": {
           const yamlPath = path.join(
             __dirname,
-            "../../grammars/sline.tmLanguage.yaml"
+            "../../grammars/sline.tmLanguage.yaml",
           );
 
           const grammarObject = YAML.parse(fs.readFileSync(yamlPath, "utf8"));
 
           return parseRawGrammar(
             JSON.stringify(grammarObject),
-            yamlPath.replace(/\.ya?ml$/, ".json")
+            yamlPath.replace(/\.ya?ml$/, ".json"),
           );
         }
 
         case "text.html.basic":
           return loadJsonGrammar(
-            path.join(__dirname, "../syntaxes/html.tmLanguage.json")
+            path.join(
+              __dirname,
+              "../third-party-grammars/html.tmLanguage.json",
+            ),
           );
 
         case "source.js":
           return loadJsonGrammar(
-            path.join(__dirname, "../syntaxes/javascript.tmLanguage.json")
+            path.join(
+              __dirname,
+              "../third-party-grammars/javascript.tmLanguage.json",
+            ),
           );
 
         case "source.css":
           return loadJsonGrammar(
-            path.join(__dirname, "../syntaxes/css.tmLanguage.json")
+            path.join(__dirname, "../third-party-grammars/css.tmLanguage.json"),
           );
 
         case "source.json":
           return loadJsonGrammar(
-            path.join(__dirname, "../syntaxes/json.tmLanguage.json")
+            path.join(
+              __dirname,
+              "../third-party-grammars/json.tmLanguage.json",
+            ),
           );
 
         default:
